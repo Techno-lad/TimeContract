@@ -1,6 +1,6 @@
 # TimeContract
 A time based contract that transfers control from a "parent/owner" address to a "child" address if a "check in" deadline is missed.
-It builds upon work from the CrowdFund contract.
+It builds on work from the CrowdFund contract.
 
 UPDATES TO COME:
 * Restricts child address to withdrawing a specific amount.
